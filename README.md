@@ -47,5 +47,5 @@ If the exercise isn't ready in 20 seconds:
 3. If the page doesn't refresh automatically, please check the [Actions](../../actions) tab.
    - Check to see if a job is running. Sometimes it simply takes a bit longer.
    - If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
-
+4.................
 </details>
